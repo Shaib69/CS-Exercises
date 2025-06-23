@@ -1,0 +1,3 @@
+BasedOnStyle: LLVM  # Or Google, Chromium, etc.
+ColumnLimit: 0
+ReferenceAlignment: Left
